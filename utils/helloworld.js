@@ -1,4 +1,5 @@
-export default function sayHello()
-{
+const sayHello=()=>{
     return "hello";
 }
+
+export default sayHello;
